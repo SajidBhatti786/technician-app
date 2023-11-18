@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "address": "123 Main St",
+    "zipCode": "06901",
+    "phone": "555-123-4567"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "address": "456 Oak St",
+    "zipCode": "06830",
+    "phone": "555-987-6543"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "address": "789 Elm St",
+    "zipCode": "06106",
+    "phone": "555-555-5555"
+  },
+  {
+    "id": 4,
+    "name": "Bob Williams",
+    "address": "101 Pine St",
+    "zipCode": "06510",
+    "phone": "555-111-2222"
+  },
+  {
+    "id": 5,
+    "name": "Eva Brown",
+    "address": "555 Maple Ave",
+    "zipCode": "10001",
+    "phone": "555-333-4444"
+  },
+  {
+    "id": 6,
+    "name": "David Lee",
+    "address": "777 Broadway",
+    "zipCode": "10021",
+    "phone": "555-777-8888"
+  },
+  {
+    "id": 7,
+    "name": "Sophia Garcia",
+    "address": "888 Park Place",
+    "zipCode": "11201",
+    "phone": "555-666-9999"
+  },
+  {
+    "id": 8,
+    "name": "Oliver Martinez",
+    "address": "222 Lexington Ave",
+    "zipCode": "10016",
+    "phone": "555-123-9876"
+  },
+  {
+    "id": 9,
+    "name": "Isabella Scott",
+    "address": "333 Wall St",
+    "zipCode": "10005",
+    "phone": "555-456-7890"
+  },
+  {
+    "id": 10,
+    "name": "William Johnson",
+    "address": "444 Market St",
+    "zipCode": "19103",
+    "phone": "555-321-6547"
+  },
+  {
+    "id": 11,
+    "name": "Mia Wilson",
+    "address": "777 Pineapple St",
+    "zipCode": "90001",
+    "phone": "555-777-1111"
+  },
+  {
+    "id": 12,
+    "name": "James Miller",
+    "address": "999 Orange Ave",
+    "zipCode": "90007",
+    "phone": "555-222-3333"
+  },
+  {
+    "id": 13,
+    "name": "Ava Brown",
+    "address": "111 Lemon St",
+    "zipCode": "90010",
+    "phone": "555-888-9999"
+  },
+  {
+    "id": 14,
+    "name": "Liam Rodriguez",
+    "address": "222 Cherry Ln",
+    "zipCode": "90015",
+    "phone": "555-999-4444"
+  },
+  {
+    "id": 15,
+    "name": "Emma Hernandez",
+    "address": "333 Grape St",
+    "zipCode": "94102",
+    "phone": "555-777-5555"
+  },
+  {
+    "id": 16,
+    "name": "Noah Martinez",
+    "address": "444 Pear Ave",
+    "zipCode": "94107",
+    "phone": "555-333-1111"
+  },
+  {
+    "id": 17,
+    "name": "Charlotte Gonzalez",
+    "address": "555 Berry Blvd",
+    "zipCode": "94110",
+    "phone": "555-222-4444"
+  },
+  {
+    "id": 18,
+    "name": "Elijah Perez",
+    "address": "666 Figueroa St",
+    "zipCode": "94115",
+    "phone": "555-111-8888"
+  },
+  {
+    "id": 19,
+    "name": "Amelia Nguyen",
+    "address": "777 Olive Rd",
+    "zipCode": "94120",
+    "phone": "555-888-5555"
+  },
+  {
+    "id": 20,
+    "name": "William Jackson",
+    "address": "888 Pine St",
+    "zipCode": "98101",
+    "phone": "555-555-9999"
+  },
+  {
+    "id": 21,
+    "name": "Sophia Thompson",
+    "address": "999 Cedar Ave",
+    "zipCode": "98104",
+    "phone": "555-444-1111"
+  },
+  {
+    "id": 22,
+    "name": "Alexander Davis",
+    "address": "111 Elmwood Dr",
+    "zipCode": "98109",
+    "phone": "555-777-7777"
+  },
+  {
+    "id": 23,
+    "name": "Madison Garcia",
+    "address": "222 Oakwood Pl",
+    "zipCode": "60601",
+    "phone": "555-666-6666"
+  },
+  {
+    "id": 24,
+    "name": "Michael Rodriguez",
+    "address": "333 Maplewood Cir",
+    "zipCode": "60605",
+    "phone": "555-555-5555"
+  },
+  {
+    "id": 25,
+    "name": "Olivia Wilson",
+    "address": "444 Pinecrest Ave",
+    "zipCode": "60610",
+    "phone": "555-222-3333"
+  },
+  {
+    "id": 26,
+    "name": "Sophia Brown",
+    "address": "555 Oakdale Rd",
+    "zipCode": "60615",
+    "phone": "555-888-7777"
+  },
+  {
+    "id": 27,
+    "name": "Matthew Jones",
+    "address": "666 Chestnut St",
+    "zipCode": "75201",
+    "phone": "555-777-9999"
+  },
+  {
+    "id": 28,
+    "name": "Emily Lee",
+    "address": "777 Walnut Blvd",
+    "zipCode": "75205",
+    "phone": "555-999-1111"
+  },
+  {
+    "id": 29,
+    "name": "Daniel Davis",
+    "address": "888 Maple Ave",
+    "zipCode": "75210",
+    "phone": "555-333-8888"
+  },
+  {
+    "id": 30,
+    "name": "Avery Martinez",
+    "address": "999 Pine St",
+    "zipCode": "75215",
+    "phone": "555-222-7777"
+  },
+  {
+    "id": 31,
+    "name": "John Doe",
+    "address": "123 Main St",
+    "zipCode": "98101",
+    "phone": "555-123-4567"
+  },
+  {
+    "id": 32,
+    "name": "Jane Smith",
+    "address": "456 Oak St",
+    "zipCode": "98101",
+    "phone": "555-987-6543"
+  },
+  {
+    "id": 33,
+    "name": "Alice Johnson",
+    "address": "789 Elm St",
+    "zipCode": "10001",
+    "phone": "555-555-5555"
+  },
+  {
+    "id": 34,
+    "name": "Bob Williams",
+    "address": "101 Pine St",
+    "zipCode": "10011",
+    "phone": "555-111-2222"
+  },
+  {
+    "id": 35,
+    "name": "Eva Brown",
+    "address": "555 Maple Ave",
+    "zipCode": "10018",
+    "phone": "555-333-4444"
+  },
+  {
+    "id": 36,
+    "name": "David Lee",
+    "address": "777 Broadway",
+    "zipCode": "10019",
+    "phone": "555-777-8888"
+  },
+  {
+    "id": 37,
+    "name": "Sophia Garcia",
+    "address": "888 Park Place",
+    "zipCode": "10022",
+    "phone": "555-666-9999"
+  }
+]
